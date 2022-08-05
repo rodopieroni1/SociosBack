@@ -1,3 +1,8 @@
-Ee realizo BackEnd en Java con SpringBoot.
+Se realizo BackEnd en Java con SpringBoot.
 El archivo CSV se convirtio en un .sql
 Para levantar el back, debe clonarce y levantarlo desde cualquier IDE
+
+Pido mil disculpas pero no llegue a realizarlo todo en tiempo y forma, ya que falta el front, 
+y a ultimo momento surgieron unos problemas que hasta el ultimo dia no pude resolverlos en las
+cadenas presentadas en los repositorios.
+
